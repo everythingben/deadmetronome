@@ -4,7 +4,7 @@
 
 ## Music Notation
 
-I spent a lot of time finding a good workflow for embedding snippets of music notation in posts. I'll describe it here so I don't forget.
+I plan to include snippets of music notation in most of my writings. I've spent a lot of time figuring out how to embed these snippets responsively in posts. I'll describe my workflow here so I don't forget.
 
 ### Step 0: Create
 
