@@ -26,6 +26,8 @@ And the others:
 
 `3.176 * (450 / 300) = 4.764`
 
+I created a Pen to make these calculations a bit quicker: https://codepen.io/everythingben/pen/oPmmKj
+
 ### Step 2: Tweak
 
 Tweak these layout settings until all elements look nice and balanced:
