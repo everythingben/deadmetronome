@@ -1,6 +1,6 @@
 # Dead Metronome
 
-[Dead Metronome](http://deadmetronome.com) is a collection of music transcriptions, analyses and arrangements. All content is created and maintained by me ([Ben Lane](http://benlane.net)) and built with [Hexo](https://hexo.io).
+[Dead Metronome](http://deadmetronome.com) is an experimental [Hexo](https://hexo.io) blog intended for displaying my music transcriptions, analyses and arrangements. I'm not using it right now but I'll keep it here in case I need it someday.
 
 ## Music Notation
 
